@@ -1,2 +1,4 @@
-# Exerc-cio_JS_Assincrono
-Repositório com exercícios de JS Assíncrono
+# Exercício de Javascript Assíncrono e API JS
+
+Repositório para praticar a passagem e recebimento de valores via URL utilizando JS tanto para envio quanto para recebimento.
+

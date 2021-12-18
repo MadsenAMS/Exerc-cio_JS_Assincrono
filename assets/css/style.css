@@ -1,0 +1,36 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: darkolivegreen;
+    max-width: 1200;
+}
+
+.mainText{
+    background-color: black;
+    color: white;
+    font-size: large;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a:visited{
+    color:white;
+}
+
+a:link{
+    color: white;
+}
+
+span{
+    color: green;
+}
